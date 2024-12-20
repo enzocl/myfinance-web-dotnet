@@ -34,4 +34,4 @@ O padrão de arquitetura utilizado para a criação do MyFinance foi o estilo de
 10. Se tudo ocorrer perfeitamente, será apresentado uma linha contendo o endereço para acesso, fique atento, pois é a linha que contém a palavra `localhost` e o nome da porta.
 
 ## Informações Adicionais:
-Entre em contato com o desenvolvedor para qualquer dúvida!!
+Entre em contato com os desenvolvedores para qualquer dúvida!!
