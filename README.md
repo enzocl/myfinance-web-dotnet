@@ -1,6 +1,8 @@
 # myfinance-web-dotnet
 MyFinance - Projeto do Curso de Pós-Graduação em Engenharia de Software da PUC-Minas
 
+**Desenvolvedores:** **Enzo Claudino** e **Gustavo Hoffman de Castro**
+
 ## Descrição do Projeto:
 O My Finance é uma aplicação que permite ao usuário controlar suas finanças por meio do cadastro de despesas e receitas. Além disso, para melhorar a experiência do usuário, a aplicação possibilita que o usuário possa editar ou excluir cada informação de maneira simples na tela de exibição.
 
